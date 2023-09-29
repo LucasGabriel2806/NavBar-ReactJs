@@ -1,0 +1,2 @@
+TERMINAL
+npm install && npm start
